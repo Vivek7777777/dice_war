@@ -32,10 +32,15 @@ img {
   width: 80%;
 }
 
-footer {
-  margin-top: 5%;
-  color: #EEEEEE;
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
-
+.btn{
+  font-family: 'Indie Flower';
+  display: block;
+  margin: 50px auto;
+  width: 140px;
+  height: 50px;
+  font-size: 27px;
+  background-color: rgb(235, 189, 129);
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0 0 6px 1px black;
 }
